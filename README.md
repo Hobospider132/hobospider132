@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Hobospider132/hobospider132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student based in Sydney, Australia (AEST time zone)
 
-Here are some ideas to get you started:
+I mainly use Python when programming however I know how to use JavaScript, C# and more.
+Sort of full stack but not really
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Screenshot_2023-02-27-17-41-37-582-edit_com discord](https://user-images.githubusercontent.com/100825450/224917745-18f9e13d-dad1-4884-bcb2-6282d48cd1c7.jpg)
+
+I'm mainly on Otonari no Tenshi-sama which is another way to reach me if my discord isn't working. Just ping me on there.
+
+My hobbies include:
+
+- Working with electronics
+- 3D Modelling 
+- Coding 
+- Fixing linux 
+
+yeah...
+
+I'll add more stuff at a later date ig
