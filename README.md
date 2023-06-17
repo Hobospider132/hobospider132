@@ -9,13 +9,7 @@ Sort of full stack but not really
 
 I'm mainly on Otonari no Tenshi-sama which is another way to reach me if my discord isn't working. Just ping me on there.
 
-My hobbies include:
+### Current projects
 
-- Working with electronics
-- 3D Modelling 
-- Coding 
-- Fixing linux 
-
-yeah...
-
-I'll add more stuff at a later date ig
+- WrathOfTheGods (On hold until I have the time to get a VM going)
+- MahiruOS (Starting it when I get a chance)
