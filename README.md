@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a student based in Sydney, Australia (AEST time zone)
-
 I mainly use Python when programming however I know how to use JavaScript, C# and more.
 Sort of full stack but not really
 
