@@ -9,5 +9,6 @@ I'm mainly on Otonari no Tenshi-sama which is another way to reach me if my disc
 
 ### Current projects
 
-- WrathOfTheGods (On hold until I have the time to get a VM going)
-- MahiruOS (Starting it when I get a chance)
+- ~~WrathOfTheGods (On hold until I have the time to get a VM going)~~ (Need someone to help me make a game or smth to go with it)
+- MahiruOS (Working on designs rn)
+- MahiruOS site (Need to do a few things here)
