@@ -8,4 +8,4 @@ Osu setup: <br>
 Pointing device: Trackpad <br>
 Keyboard: Built-in laptop keyboard <br>
 Keys: ZX
-<p align="center"><a href="https://osu.ppy.sh/users/Hobospider132"><img src="https://osu-sig.vercel.app/card?user=Hobospider132&mode=std&lang=en&round_avatar=true&animation=true&hue=200&mini=true"></a></p>
+<p align="center"><a href="https://osu.ppy.sh/users/Hobospider132"><img src="https://osu-sig.vercel.app/card?user=Hobospider132&mode=std&lang=en&round_avatar=true&animation=true&hue=200&skills=true"></a></p>
