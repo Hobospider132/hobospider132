@@ -6,4 +6,4 @@ I mainly use Python when programming however I know how to use JavaScript, C# an
 
 I'm mainly on Otonari no Tenshi-sama which is another way to reach me if my discord isn't working. Just ping me on there.
 
-<p align="center"><a href="https://osu.ppy.sh/users/Hobospider132><img src="https://osu-sig.vercel.app/card?user=Hobospider132&mode=std&lang=en&round_avatar=true&animation=true&hue=200&skills=true"></a></p>
+<p align="center"><a href="https://osu.ppy.sh/users/Hobospider132><img src="https://osu-sig.vercel.app/card?user=Hobospider132&mode=std&lang=en&round_avatar=true&animation=true&hue=200&mini=true"></a></p>
