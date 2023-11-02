@@ -2,7 +2,7 @@
 
 I mainly use Python when programming however I know how to use JavaScript, C# and more. <br>
 Fan of: Tonikaku Kawaii, Otonari no Tenshi-sama, Bocchi the Rock. <br>
-Favourite games: Osu!, PAYDAY 2. <br>
+Favourite games: Osu!, PAYDAY 2, Reverse: 1999, Borderlands 2. <br>
 Discord: <a href="https://www.discord.com/users/649892152398315540">Hobospider132</a> <br>
 Osu setup: <br>
 Pointing device: Trackpad <br>
