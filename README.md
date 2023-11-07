@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I mainly use Python when programming however I know how to use JavaScript, C# and more. <br>
+Programmer living in Berlin, Germany<br>
+&nbsp;
+<p align="left">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hobospider132&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobospider132)](https://github.com/anuraghazra/github-readme-stats)</p>
+&nbsp;
+
 Fan of: Tonikaku Kawaii, Otonari no Tenshi-sama, Bocchi the Rock. <br>
 Favourite games: Osu!, PAYDAY 2, Reverse: 1999, Borderlands 2. <br>
 Discord: <a href="https://www.discord.com/users/649892152398315540">Hobospider132</a> <br>
