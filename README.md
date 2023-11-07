@@ -2,8 +2,8 @@
 
 Programmer living in Berlin, Germany<br>
 <p align="left">
-  <img height="200px" width="150px" src="https://github-readme-stats.vercel.app/api?username=hobospider132&layout=compact&show_icons=true&theme=tokyonight">
-  <img height="200px" width="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobospider132&layout=compact&show_icons=true&theme=tokyonight">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=hobospider132&layout=compact&show_icons=true&theme=tokyonight">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobospider132&layout=compact&show_icons=true&theme=tokyonight">
 </p>
 
 <img height="200px" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobospider132&theme=tokyonight">
