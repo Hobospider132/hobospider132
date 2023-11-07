@@ -2,11 +2,11 @@
 
 Programmer living in Berlin, Germany<br>
 <p align="left">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=hobospider132&layout=compact&show_icons=true&theme=tokyonight">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobospider132&layout=compact&show_icons=true&theme=tokyonight">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hobospider132&layout=compact&show_icons=true&theme=tokyonight">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobospider132&layout=compact&show_icons=true&theme=tokyonight">
 </p>
 
-<img height="200px" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobospider132&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hobospider132&theme=tokyonight">
 
 Fan of: Tonikaku Kawaii, Otonari no Tenshi-sama, Bocchi the Rock. <br>
 Favourite games: Osu!, PAYDAY 2, Reverse: 1999, Borderlands 2. <br>
