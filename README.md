@@ -2,8 +2,8 @@
 
 Programmer living in Berlin, Germany<br>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hobospider132&layout=compact&count_private=true&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobospider132&layout=compact&count_private=true&show_icons=true&theme=tokyonigh">
+  <img src="https://github-readme-stats.vercel.app/api?username=hobospider132&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobospider132&layout=compact&show_icons=true&theme=tokyonigh">
 </p>
 
 Fan of: Tonikaku Kawaii, Otonari no Tenshi-sama, Bocchi the Rock. <br>
