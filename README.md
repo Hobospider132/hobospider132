@@ -2,8 +2,8 @@
 
 Programmer living in Berlin, Germany<br>
 &nbsp;
-<p align="left">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hobospider132&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)</p>
-<p align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobospider132)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hobospider132&repo=github-readme-stats"></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobospider132"></p>
 &nbsp;
 
 Fan of: Tonikaku Kawaii, Otonari no Tenshi-sama, Bocchi the Rock. <br>
