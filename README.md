@@ -17,6 +17,6 @@ Keyboard: Built-in laptop keyboard <br>
 <p align="center">Visitor count: </p>
 <p align="center"><img src="https://profile-counter.glitch.me/Hobospider132/count.svg"></p>
 
-### Website:
-
-<p align=center><a href="hobospider132.github.io"><strong>My site</strong></a></p>
+<p align=center>
+  Website: <a href="hobospider132.github.io"><strong>My site</strong></a>
+</p>
