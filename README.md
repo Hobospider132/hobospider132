@@ -19,4 +19,4 @@ Keyboard: Built-in laptop keyboard <br>
 
 ### Website:
 
-<a href="hobospider132.github.io">My site</a>
+<a href="hobospider132.github.io" align="center"><strong>My site</strong></a>
