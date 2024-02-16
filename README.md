@@ -12,8 +12,11 @@ Discord: <a href="https://www.discord.com/users/649892152398315540">Hobospider13
 Osu setup: <br>
 Pointing device: ~~Trackpad~~ Wacom CTL-472 tablet<br>
 Keyboard: Built-in laptop keyboard <br>
-Keys: ZX
 <p align="center"><a href="https://osu.ppy.sh/users/Hobospider132"><img src="https://osu-sig.vercel.app/card?user=Hobospider132&mode=std&lang=en&round_avatar=true&animation=true&hue=200&skills=true"></a></p>
 
 <p align="center">Visitor count: </p>
 <p align="center"><img src="https://profile-counter.glitch.me/Hobospider132/count.svg"></p>
+
+### Website:
+
+<a href="hobospider132.github.io">My site</a>
