@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Self taught developer living in Australia<br>
+Self taught developer (Absolutely cooked)<br>
 <p align="left">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=hobospider132&layout=compact&show_icons=true&theme=tokyonight">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobospider132&layout=compact&show_icons=true&theme=tokyonight">
