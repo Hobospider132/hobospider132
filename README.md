@@ -11,7 +11,8 @@ Self taught developer (Absolutely cooked)<br>
 <p align="center"><img src="https://profile-counter.glitch.me/Hobospider132/count.svg"></p>
 
 <p align="center">Osu stats:</p>
+<div align="center">
 <a href="https://osu.ppy.sh/users/32521068">
-  <img align="center" src="https://osu-sig.vercel.app/card?user=Hobospider132&mode=std&lang=en&round_avatar=true&animation=true&hue=200&skills=true">
+  <img src="https://osu-sig.vercel.app/card?user=Hobospider132&mode=std&lang=en&round_avatar=true&animation=true&hue=200&skills=true">
 </a>
-
+</div>
