@@ -10,4 +10,8 @@ Self taught developer (Absolutely cooked)<br>
 <p align="center">Visitor count: </p>
 <p align="center"><img src="https://profile-counter.glitch.me/Hobospider132/count.svg"></p>
 
+Osu stats
+<a href="https://osu.ppy.sh/users/32521068">
+  <img src="https://osu-sig.vercel.app/card?user=Hobospider132&mode=std&lang=en&round_avatar=true&animation=true&hue=200&skills=true">
+</a>
 
